@@ -1,0 +1,1 @@
+Minimal website for me.
